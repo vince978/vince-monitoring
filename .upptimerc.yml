@@ -28,6 +28,14 @@ sites:
     url: https://pattaya.srv969505.hstgr.cloud
     expectedStatusCodes:
       - 401
+  - name: Audiomnes Landing
+    url: https://audiomnes.com
+    expectedStatusCodes:
+      - 401
+  - name: Shot2Send Landing
+    url: https://shot2send.com
+    expectedStatusCodes:
+      - 401
 
 status-website:
   baseUrl: /vince-monitoring
