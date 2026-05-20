@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-20": 236,
+      "2026-05-20": 1182,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
@@ -40,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-20": 236,
+      "2026-05-20": 1182,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
@@ -52,36 +52,40 @@
     "url": "https://mf.srv969505.hstgr.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/mf.srv969505.hstgr.cloud.ico",
     "slug": "mf-dashboard",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 711,
     "timeDay": 760,
     "timeWeek": 711,
     "timeMonth": 711,
     "timeYear": 711,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-20": 2
+    }
   },
   {
     "name": "Griot",
     "url": "https://griot.srv969505.hstgr.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/griot.srv969505.hstgr.cloud.ico",
     "slug": "griot",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 782,
     "timeDay": 862,
     "timeWeek": 782,
     "timeMonth": 782,
     "timeYear": 782,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-20": 2
+    }
   },
   {
     "name": "Pookie",
@@ -100,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-20": 236,
+      "2026-05-20": 1182,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
@@ -112,54 +116,60 @@
     "url": "https://n8n.srv969505.hstgr.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/n8n.srv969505.hstgr.cloud.ico",
     "slug": "n8n",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 939,
     "timeDay": 981,
     "timeWeek": 939,
     "timeMonth": 939,
     "timeYear": 939,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-20": 2
+    }
   },
   {
     "name": "Audiomnes",
     "url": "https://audiomnes.srv951062.hstgr.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/audiomnes.srv951062.hstgr.cloud.ico",
     "slug": "audiomnes",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 877,
     "timeDay": 945,
     "timeWeek": 877,
     "timeMonth": 877,
     "timeYear": 877,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-20": 1
+    }
   },
   {
     "name": "Pattaya AI",
     "url": "https://pattaya.srv969505.hstgr.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/pattaya.srv969505.hstgr.cloud.ico",
     "slug": "pattaya-ai",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 778,
     "timeDay": 752,
     "timeWeek": 778,
     "timeMonth": 778,
     "timeYear": 778,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-20": 1
+    }
   },
   {
     "name": "Audiomnes Landing",
@@ -178,7 +188,7 @@
     "timeMonth": 1184,
     "timeYear": 1184,
     "dailyMinutesDown": {
-      "2026-05-20": 236,
+      "2026-05-20": 1182,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
@@ -202,7 +212,7 @@
     "timeMonth": 916,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2026-05-20": 236,
+      "2026-05-20": 1182,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
